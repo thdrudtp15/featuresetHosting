@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a9ae8d7d.css",
+    "main.js": "./static/js/main.935b7cf7.js",
+    "static/js/787.d1d4a2c2.chunk.js": "./static/js/787.d1d4a2c2.chunk.js",
+    "static/media/beach.jpg": "./static/media/beach.c54d19129af8dd268747.jpg",
+    "static/media/city.jpg": "./static/media/city.c9dbf7fc94732d9f19c1.jpg",
+    "static/media/aurora.jpg": "./static/media/aurora.e1d1973578dc15a5911c.jpg",
+    "static/media/light.jpg": "./static/media/light.718c74dcea89b61c4854.jpg",
+    "static/media/fall.jpg": "./static/media/fall.54c2255cf543721f6d87.jpg",
+    "static/media/bridge.jpg": "./static/media/bridge.566934008b0e649546f4.jpg",
+    "static/media/tree.jpg": "./static/media/tree.1c42f349449feca2cd8b.jpg",
+    "static/media/skycity.jpg": "./static/media/skycity.6f8303b21fc0b2c1bf8d.jpg",
+    "static/media/load.jpg": "./static/media/load.b766c40451a66edc5463.jpg",
+    "static/media/hover2.jpg": "./static/media/hover2.d576f7bb2d5a5cc12388.jpg",
+    "static/media/flower.jpg": "./static/media/flower.2d81c46e829daaf93979.jpg",
+    "static/media/waterfall.jpg": "./static/media/waterfall.956c61fc4a6e78b61fa0.jpg",
+    "static/media/sea2.jpg": "./static/media/sea2.2c2ade757104a7eac840.jpg",
+    "static/media/hover4.jpg": "./static/media/hover4.8f6a7e9fde3bf446535c.jpg",
+    "static/media/hover3.jpg": "./static/media/hover3.9c3f73296f01c01a2a33.jpg",
+    "static/media/sea3.jpg": "./static/media/sea3.e7b1829b8abd98479265.jpg",
+    "static/media/hover1.jpg": "./static/media/hover1.7eb63558b5320e8365ac.jpg",
+    "static/media/sea1.jpg": "./static/media/sea1.22098cafd45f8962ac65.jpg",
+    "index.html": "./index.html",
+    "main.a9ae8d7d.css.map": "./static/css/main.a9ae8d7d.css.map",
+    "main.935b7cf7.js.map": "./static/js/main.935b7cf7.js.map",
+    "787.d1d4a2c2.chunk.js.map": "./static/js/787.d1d4a2c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9ae8d7d.css",
+    "static/js/main.935b7cf7.js"
+  ]
+}
